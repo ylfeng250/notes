@@ -1,1 +1,3 @@
-- [📒 imageData 学习笔记](/学习/imageData.md)
+## JavaScript
+- [📒 imageData 学习笔记](/JavaScript/imageData.md)
+- [📒 Array.from](/JavaScript/Array.from.md)
